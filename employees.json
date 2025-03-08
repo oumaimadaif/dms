@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Omar Benali",
+        "email": "omar.benali@email.com",
+        "status": "approved",
+        "access": "edit"
+    },
+    {
+        "id": 2,
+        "name": "Youssef Amrani",
+        "email": "youssef.amrani@email.com",
+        "status": "blocked",
+        "access": "none"
+    },
+    {
+        "id": 3,
+        "name": "Layla Haddad",
+        "email": "layla.haddad@email.com",
+        "status": "approved",
+        "access": "view"
+    },
+    {
+        "id": 4,
+        "name": "Khaled Mansouri",
+        "email": "khaled.mansouri@email.com",
+        "status": "rejected",
+        "access": "none"
+    },
+    {
+        "id": 5,
+        "name": "Nour El-Din Saadi",
+        "email": "nour.saadi@email.com",
+        "status": "approved",
+        "access": "edit"
+    },
+    {
+        "id": 6,
+        "name": "Rania Cherif",
+        "email": "rania.cherif@email.com",
+        "status": "blocked",
+        "access": "view"
+    },
+    {
+        "id": 7,
+        "name": "Zayd Boussouf",
+        "email": "zayd.boussouf@email.com",
+        "status": "Inactive",
+        "access": "edit"
+    }
+]
